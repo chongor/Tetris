@@ -3,6 +3,8 @@ Tetris
 
 Course Programming Project: implementation of the classic game Tetris in Java.
 
+Created in the Fall Semester of my Freshman year 2012.
+
 I recreated the old classic video game Tetris.
 The entire game was written by myself for a final project assignment for a Computer Science Programming course.
 
